@@ -11,13 +11,19 @@ The Contacts App is a simple web application built with React that allows users 
 
 Before you begin, ensure you have met the following requirements:
 
-- Node.js and npm are installed on your system. If not, you can download and install them from [Node.js](https://nodejs.org/).
+- Node.js and npm are installed on your system.
 
 ## Getting Started
 
-To get this project up and running, follow these steps:
 
-1. Clone this repository to your local machine:
+Clone the repository:
+`git clone https://github.com/your-username/contacts-app.git`
 
-   ```bash
-   git clone <repository-url>
+Change into the project directory:
+`cd contacts-app`
+
+Install dependencies:
+`npm install`
+
+Run the application:
+`npm start`

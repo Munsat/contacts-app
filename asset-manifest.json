@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/contacts-app/static/css/main.6ba57536.css",
+    "main.js": "/contacts-app/static/js/main.3fafcb4e.js",
+    "static/media/open-sans-cyrillic-ext-600-normal.woff2": "/contacts-app/static/media/open-sans-cyrillic-ext-600-normal.abf6f49082872c3630f1.woff2",
+    "static/media/open-sans-latin-600-normal.woff2": "/contacts-app/static/media/open-sans-latin-600-normal.7ef3bbc98d285227e83a.woff2",
+    "static/media/open-sans-cyrillic-ext-600-normal.woff": "/contacts-app/static/media/open-sans-cyrillic-ext-600-normal.b9ca875b5f8914eb27ac.woff",
+    "static/media/open-sans-latin-600-normal.woff": "/contacts-app/static/media/open-sans-latin-600-normal.834c698fbe2832cddcc9.woff",
+    "static/media/open-sans-latin-ext-600-normal.woff2": "/contacts-app/static/media/open-sans-latin-ext-600-normal.0c2b9ee06365d7e045ae.woff2",
+    "static/media/open-sans-latin-ext-600-normal.woff": "/contacts-app/static/media/open-sans-latin-ext-600-normal.2af6e5244f50514c1f48.woff",
+    "static/media/open-sans-cyrillic-600-normal.woff2": "/contacts-app/static/media/open-sans-cyrillic-600-normal.cb4c15f11ee9f9f62bff.woff2",
+    "static/media/open-sans-greek-600-normal.woff2": "/contacts-app/static/media/open-sans-greek-600-normal.109400355671295088f5.woff2",
+    "static/media/open-sans-cyrillic-600-normal.woff": "/contacts-app/static/media/open-sans-cyrillic-600-normal.da317f4db88ece9314dc.woff",
+    "static/media/open-sans-hebrew-600-normal.woff2": "/contacts-app/static/media/open-sans-hebrew-600-normal.f9d737d5f0195a929f22.woff2",
+    "static/media/open-sans-vietnamese-600-normal.woff2": "/contacts-app/static/media/open-sans-vietnamese-600-normal.e45d25461788b2f7129d.woff2",
+    "static/media/open-sans-greek-600-normal.woff": "/contacts-app/static/media/open-sans-greek-600-normal.3918833f456bf8dddc69.woff",
+    "static/media/open-sans-hebrew-600-normal.woff": "/contacts-app/static/media/open-sans-hebrew-600-normal.743f091b0f52d5e59877.woff",
+    "static/media/open-sans-vietnamese-600-normal.woff": "/contacts-app/static/media/open-sans-vietnamese-600-normal.2244de44b3bcdbce51dd.woff",
+    "static/media/open-sans-greek-ext-600-normal.woff2": "/contacts-app/static/media/open-sans-greek-ext-600-normal.4aea64b37028d201c33e.woff2",
+    "static/media/open-sans-greek-ext-600-normal.woff": "/contacts-app/static/media/open-sans-greek-ext-600-normal.89eaa724cde8c5f77ee2.woff",
+    "index.html": "/contacts-app/index.html",
+    "main.6ba57536.css.map": "/contacts-app/static/css/main.6ba57536.css.map",
+    "main.3fafcb4e.js.map": "/contacts-app/static/js/main.3fafcb4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ba57536.css",
+    "static/js/main.3fafcb4e.js"
+  ]
+}

@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Contact from "../Contact";
-import { AbsoluteCenter, Box, Center, Container, Heading, SimpleGrid, Spinner } from "@chakra-ui/react";
+import { Center, Container, Heading, SimpleGrid, Spinner } from "@chakra-ui/react";
 
 function ContactList() {
   const [contacts, setContacts] = useState([]);
